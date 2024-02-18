@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Meten is weten",
     "section": "",
-    "text": "Het traject\nBij meten is weten gaan we dieper in op de techniek van verschillende ofeningen. We nemen de conditioning apparaten onder de loep, kijken naar de verschillende soorten squats, presses en deadlifts; en gaan wat dieper in op sprint - interval en duurtraining. In de laatste week gaan we kijken hoe we dit kunnen toepassen in CrossFit workouts.\n\n\n\n\n\n\n\nPlanning\n\n\nMa 19-02  19:30:  Conditioning les 1\nDo 22-02  17:30:  Strenght les 1\nMa 26-02  19:30:  Conditioning les 2\nDo 29-02  19:30:  Strenght les 2\nMa 04-03  19:30:  Conditioning les 3\nDo 07-03  19:30:  Strenght les 3",
+    "text": "Het traject\nBij meten is weten gaan we dieper in op de techniek van verschillende ofeningen. Op de maandagen nemen we de cardio apparaten onder de loep en gaan we de techniek verbeteren. Op de donderdagen gaan we de verschillende krachtoefeningen bestuderen.\nIn de tweede helft van het traject gaan we na wat fit-zijn eigenlijk betekent.\nHoe verhouden sprint, threshold en duurtraining zich met elkaar? We gaan dieper in op de fysiologische thresholds (ventilatoire drempel, lactaatthreshold en VO2-max) die bij duursporten van belang zijn, en hoe Crossfit threshold training toepast  Tussendoor nemen we nog wat skills door.\nDe laatste week vatten we alles samen als we gaan bespreken wat de verschillende type workouts zijn, en hoe je deze het beste kunt benaderen.\n\n\n\n\n\n\n\nPlanning\n\n\nMa 19-02  19:30:  Conditioning les 1: Roeien\nDo 22-02  17:30:  Strenght les 1:\nMa 26-02  19:30:  Conditioning les 2: Skieen\nDo 29-02  19:30:  Strenght les 2:\nMa 04-03  19:30:  Conditioning les 3: Bike en echo\nDo 07-03  19:30:  Strenght les 3:",
     "crumbs": [
       "Het traject"
     ]
@@ -14,7 +14,7 @@
     "href": "Row.html",
     "title": "Les 1: Row",
     "section": "",
-    "text": "Planning",
+    "text": "Planning\nDeze les nemen we door hoe ergometers precies werken; wat een goede roeitechniek is; en hoe efficient je roeit ten opzichte van de andere cardioapparaten.",
     "crumbs": [
       "Conditioning",
       "Les 1: Row"
@@ -25,7 +25,7 @@
     "href": "Row.html#planning",
     "title": "Les 1: Row",
     "section": "",
-    "text": "Algemene warming up\n\nBike x minutes for average watts\nRow x minutes for average watts\nSki x minutes for average watts\nScores invullen\n\nUitleg\nOefenen roei techniek\n\nOefenen met Force graph\nOefenen met Watt graph",
+    "text": "3 min roeien (moderate tempo)\nUitleg\n\nOefenen roei techniek\nOefenen met Force graph\nOefenen met Watt graph\n\nOpnieuw 3 min roeien (om techniek te vergelijken)\nApparaten vergelijken\n\nBike x cals for average watts\nRow x cals for average watts\nSki x cals for average watts\nScores invullen\nScore analyse",
     "crumbs": [
       "Conditioning",
       "Les 1: Row"
@@ -36,7 +36,7 @@
     "href": "Row.html#drag-factor",
     "title": "Les 1: Row",
     "section": "drag factor",
-    "text": "drag factor\nTussen elke slag meet de computer hoeveel het vliegwiel afremt. Op basis daarvan berekent het de drag factor, en bij de volgende slag gebruikt het de drag factor en de snelheid van het vliegwiel om uit te rekenen hoe hard je roeit, hoeveel kracht je daarbij gebruikt, en hoeveel calorieen je verbrandt.\n\n\n\nHet viegwiel is te vergelijken met de versnelling op de fiets: met een hogere afstelling kan er meer lucht in, waardoor je harder moet werken. Maar met een hogere afstelling is de drag factor hoger waardoor je per slag meer kracht kan leveren.\nRoeiers kunnen van elkaar verschillen (hoe oud ze zijn, onderhoud, stof, geolied etc.). Met een wod weet je meestal wel ongeveer welke demper je zelf fijn vindt, maar om ze preciezer af te stellen kan je in het menu de drag factor opzoeken.\nOver het algemeen wordt drag factor van 115-130 aangeraden. Langere fittere mensen misschien wat meer, en kortere beginners misschien wat minder. Ook maakt het uit wat voor workout je gaat doen: Bij een korte sprint is het wat fijner om een hogere weerstand te hebben.\n\n\nDe demper werkt als versnelling\nMet de drag-factor wordt je tempo berekend.\nDrag factor: 115-130 :::",
+    "text": "drag factor\nBij elke slag meet de roeicumputer hoe snel het vliegwiel draait, en hoe snel het afremt. Hiermee berekent het de drag factor. Met deze drag factor wordt uitgerekend hoe zwaar en hoe snel je roeit.\nDe schuif aan de zijkant werkt dus als een soort versnelling: Als je de schuif hoger zet, roei je zwaarder doordat er meer lucht in gaat; maar is de drag factor ook hoger, waardoor je sneller / meer calorieen roeit.\n\n\n\nRoeiapparaten kunnen van elkaar verschillen (hoe oud ze zijn, onderhoud, stof, geolied etc.). Met een wod weet je meestal wel ongeveer welke demper je zelf fijn vindt, maar om ze preciezer af te stellen kan je in het menu de drag factor opzoeken.\nOver het algemeen wordt drag factor van 115-130 aangeraden. Langere fittere mensen misschien hoger, en kortere beginners wat lager. Ook maakt het uit wat voor workout je gaat doen: Bij een korte sprint is het fijner om een hogere weerstand te hebben.\n\n\nDe demper werkt als versnelling\nMet de drag-factor wordt je tempo berekend.\nDrag factor: 115-130 :::",
     "crumbs": [
       "Conditioning",
       "Les 1: Row"
@@ -80,7 +80,7 @@
     "href": "Row.html#watt-graph",
     "title": "Les 1: Row",
     "section": "Watt graph",
-    "text": "Watt graph\nDe Watt-grafiek laat per slag de power zien waarmee je hebt geroeid. Tijdens het roeien kan je dan goed zien of je bijvoorbeeld te snel bent begonnen, een gelijkmatige pace hebt, of per slag de power van die slag aan. Dat zegt iets over de verdeling van je energie over de workout. Ben je te snel of juist te langzaam begonnen? XXXXXXXX",
+    "text": "Watt graph\nDe Watt-grafiek laat per slag de power zien waarmee je hebt geroeid. Tijdens het roeien kan je dan goed zien of je bijvoorbeeld te snel bent begonnen, een gelijkmatige pace hebt, of per slag de power van die slag aan. Dat zegt iets over de verdeling van je energie over de workout. Ben je te snel of juist te langzaam begonnen?",
     "crumbs": [
       "Conditioning",
       "Les 1: Row"
@@ -102,7 +102,7 @@
     "href": "Bike.html",
     "title": "Les 3: Bike",
     "section": "",
-    "text": "Planning",
+    "text": "Planning\nDeze les kijken we naar het verschil tussen de bike-erg en de echo bike. We vatten samen wat we over de verschillende apparaten hebben geleerd, en gaan dieper in op het belang van een warming up. We eindigen met een 20 min bike test.",
     "crumbs": [
       "Conditioning",
       "Les 3: Bike"
@@ -113,7 +113,7 @@
     "href": "Bike.html#planning",
     "title": "Les 3: Bike",
     "section": "",
-    "text": "Algemene warming up\n\nBike x minutes for average watts\nRow x minutes for average watts\nSki x minutes for average watts\nScores invullen\n\nUitleg\nOefenen roei techniek\n\nOefenen met Force graph\nOefenen met Watt graph",
+    "text": "Bike-erg en Echo bike\nOverzicht apparaten\nWarming up, wat en waarom?\n20 min bike test\nScores invullen",
     "crumbs": [
       "Conditioning",
       "Les 3: Bike"
@@ -124,7 +124,7 @@
     "href": "Bike.html#bike",
     "title": "Les 3: Bike",
     "section": "Bike",
-    "text": "Bike\nAs we mentioned previously the bikeerg differs from the rower and skierg as it does not present the dual phase movement.\nIn other words compared to the other machines there is no recovery section on the bike.\nWhen one leg completes a revolution the other one is already engaged in pushing the pedal down for the next revolution.\nWhat this means is that your rp/m range will be much higher compared to the other machines.\nYour power output will also be read as higher as you are essentially always applying pressure to pedals and therefore expressing energy inside the flywheel.\nThis is the reason why you’ll notice that while the rower and skierg display your 500m pace the bike MP displays your 1km pace.\nThe damper on your bikerg mimics the gears of a conventional bike.\nYou could also interpret the higher damper setting numbers as going uphill (or a hard condition as biking with the wind against you)l, while the lower range mimics a flat terrain.\nThis allows us to understand how, although it may feel like much more effort, utilizing a high damper setting doesn’t directly translate into a faster pace.\nAll considered, when it comes to rp/m range we utilize a slightly different approach compared to the other machines. For most workouts we recommend athletes to aim for 80 rp/m.\nBigger athletes will be able to maintain a range close to 80 with a higher damper setting compared to lighter athletes.\nHowever, we do not recommend maximum and minimum end ranges like we do for the other machines.",
+    "text": "Bike\nskieen en roeien doe je met beide armen tegelijk, maar trappen op een fiets doe je eerst met links, dan met rechts. Bij het fietsen heb je geen “recovery phase”. Als het ene been op het eind is van het trappen, begint het andere been. Hierdoor kan je veel meer RPM’s halen vergeleken met roeien of skieen.\nJe vermogensoutput is ook hoger, omdat je altijd druk uitoefent op de pedalen en dus energie in het vliegwiel brengt.\nVandaar dat de bike-erg je 1km tempo aangeeft, en de roeier en skier de 500m split.\nOmdat je met beide benen om-en-om trapt, heb je een heel andere RPM. De afweging wat een goede RPM is hangt nu veel meer af van de mechanische efficientie van je spieren. Hier is binnen het wielrennen heel veel onderzoek naar gedaan, en is intressant om eens over te lezen.\nUit onderzoek blijkt dat je het efficienst fietst op ongeveer 60 RPM. Dan stop je het meeste van je energie in de fiets, en zo min mogelijk in andere dingen zoals wrijving, warmte etc. Maar zodra je harder wilt gaan fietsen, is de kracht die je moet leveren per omwenteling zo groot dat je spieren erg snel verzuren. Zodra je harder moet gaan fietsen, is een hogere RPM aan te raden, omdat je dan per omwenteling minder kracht hoeft te leveren. Zo fiets je misschien een paar procent minder efficient, maar kan je het fietsen wel een stuk langer volhouden.\nAl met al is een rpm van 80-90 voor de meeste trainingen prima\nGrotere sterkere atleten kunnen meer kracht leveren zonder te verzuren, en kunnen dus vergeleken met lichtere atleten langer op lage RPM’s fietsen voordat ze verzuren.",
     "crumbs": [
       "Conditioning",
       "Les 3: Bike"
@@ -157,7 +157,7 @@
     "href": "Bike.html#meer-weten",
     "title": "Les 3: Bike",
     "section": "Meer weten?",
-    "text": "Meer weten?\n\nUitleg video’s\n\nOverzicht van de cardio apparaten",
+    "text": "Meer weten?\n\nUitleg video’s\n\nOverzicht van de cardio apparaten\n\nVoor als ls je er alles van wilt weten:\n\nThe influence of pedalling frequency on mechanical efficiency in excercises with the same intensity",
     "crumbs": [
       "Conditioning",
       "Les 3: Bike"
@@ -168,7 +168,7 @@
     "href": "Ski.html",
     "title": "Les 2: Ski",
     "section": "",
-    "text": "Planning",
+    "text": "Planning\nDeze les nemen we de ski-techniek door; kijken we hoe je een sprint goed kunt beginnen, en gaan we in op de verzuring van je armen bij het skieen.",
     "crumbs": [
       "Conditioning",
       "Les 2: Ski"
@@ -179,7 +179,7 @@
     "href": "Ski.html#planning",
     "title": "Les 2: Ski",
     "section": "",
-    "text": "Algemene warming up\nUitleg\nOefenen met ski techniek\nSprint drills\nSprints\nScores invullen",
+    "text": "Oefenen met skitechniek\nSprinttechniek\nScores invullen\nSki ladder",
     "crumbs": [
       "Conditioning",
       "Les 2: Ski"
@@ -201,7 +201,7 @@
     "href": "Ski.html#verzuring",
     "title": "Les 2: Ski",
     "section": "Verzuring",
-    "text": "Verzuring\nBij het skieen kunnen de armen behoorlijk verzuren.\nOver het algemeen geldt dat een spier gaat verzuren zodra die meer dan 50%* van de maximale kracht levert. Fietsen doe je in een hoog tempo, dus hoeft de kracht niet zo heel hoog te zijn. Bij het roeien gebruik je heel veel spieren, zodat de totale kracht niet zo hoog is. Maar bij het skien moet alle kracht via de armen het apparaat in. Daardoor is de grens van verzuring veel eerder bereikt.\nOm de armen te ontlasten is het aan te raden om ze de hele trek-fase van de beweging gebogen te houden (behalve bovenin). Hierdoor is de kracht die de armen moeten leveren wat minder. Het is wel efficient om het laatste stukje je armen helemaal te strekken, wat helpt bij het omhoog komen.",
+    "text": "Verzuring\nBij het skiën kunnen de armen behoorlijk verzuren.\nOver het algemeen geldt dat een spier gaat verzuren zodra die meer dan 50%* van de maximale kracht levert. Fietsen doe je in een hoog tempo, dus hoeft de kracht niet zo heel hoog te zijn. Bij het roeien gebruik je heel veel spieren, zodat de totale kracht niet zo hoog is. Maar bij het skiën moet alle kracht via de armen het apparaat in. Daardoor is de grens van verzuring veel eerder bereikt.\nOm de armen te ontlasten is het aan te raden om ze de hele trek-fase van de beweging gebogen te houden (behalve bovenin). Hierdoor is de kracht die de armen moeten leveren wat minder. Het is wel efficiënt om het laatste stukje je armen helemaal te strekken, wat helpt bij het omhoog komen.\n* het echte percentage ligt net even anders, en hopelijk komen we hier later in de cursus aan toe.",
     "crumbs": [
       "Conditioning",
       "Les 2: Ski"
@@ -223,7 +223,7 @@
     "href": "Ski.html#meer-weten",
     "title": "Les 2: Ski",
     "section": "Meer weten?",
-    "text": "Meer weten?\n\nUitleg video’s\n\nDamper settings 101 - Concept 2\nVeelgemaakte fouten - Concept 2\n\n\n\n\n\n\n\nVoor als ls je er alles van wilt weten:\n\nRowing Biomechanics Newsletter\nMechanica van een ergometer",
+    "text": "Meer weten?\n\nUitleg video’s\n\nDamper settings 101 - Concept 2\nVeelgemaakte fouten - Concept 2\n\n\n\n\n\n\n\nVoor als je er alles van wilt weten:\n\nRowing Biomechanics Newsletter\nMechanica van een ergometer",
     "crumbs": [
       "Conditioning",
       "Les 2: Ski"
@@ -311,10 +311,76 @@
     "href": "Presses.html#push-jerk",
     "title": "Les 1: Presses",
     "section": "Push jerk",
-    "text": "Push jerk\n\n\nSplit jerk",
+    "text": "Push jerk\n\n\n\n \n\nSplit jerk",
     "crumbs": [
       "Strength",
       "Les 1: Presses"
+    ]
+  },
+  {
+    "objectID": "Thresholds.html",
+    "href": "Thresholds.html",
+    "title": "Les 1: Thresholds",
+    "section": "",
+    "text": "Planning\nDeze les gaan we in op wat thresholds zijn, en hoe we ermee kunnen trainen.\n![]https://www.southernct.edu/sites/default/files/styles/max_2600x2600/public/media-hero-sliders/2022-03/SCSU_19_HumanPerformanceLab-2627.jpeg){style=“border-radius: 8px;” fig-align=“center” width=“100%”}",
+    "crumbs": [
+      "Uithoudingsvermogen",
+      "Les 2: Thresholds"
+    ]
+  },
+  {
+    "objectID": "Thresholds.html#planning",
+    "href": "Thresholds.html#planning",
+    "title": "Les 1: Thresholds",
+    "section": "",
+    "text": "Wat zijn de fysieke thresholds?\nHoe ziet Crossfit Threshold training?\nOefenen met fysieke threshold\nOefenen met technische threshold (als we hier aan toekomen)",
+    "crumbs": [
+      "Uithoudingsvermogen",
+      "Les 2: Thresholds"
+    ]
+  },
+  {
+    "objectID": "Thresholds.html#meer-weten",
+    "href": "Thresholds.html#meer-weten",
+    "title": "Les 1: Thresholds",
+    "section": "Meer weten?",
+    "text": "Meer weten?\n\n\nThreshold - Greg Glassman\n\n\n\n\n\nVoor als ls je er alles van wilt weten:\n\nBiomechanica van het roeien\nNatuurkunde van het roeien",
+    "crumbs": [
+      "Uithoudingsvermogen",
+      "Les 2: Thresholds"
+    ]
+  },
+  {
+    "objectID": "Fitness.html",
+    "href": "Fitness.html",
+    "title": "Les 1: Wat is fitness",
+    "section": "",
+    "text": "Planning\nDeze les gaan we in op de vraag: Wat is fitness? We gaan bekijken hoe hier vanuit Crossfit tegenaan wordt gekeken. Het tweede deel van de les kijken we welke gegevens we nodig hebben om te kijken hoe fit iedereen is.",
+    "crumbs": [
+      "Uithoudingsvermogen",
+      "Les 1: Wat is fitness?"
+    ]
+  },
+  {
+    "objectID": "Fitness.html#planning",
+    "href": "Fitness.html#planning",
+    "title": "Les 1: Wat is fitness",
+    "section": "",
+    "text": "Wat is “fitness”\nevt. Laatste tests\nHoe fit is iedereen?\ntoetje?",
+    "crumbs": [
+      "Uithoudingsvermogen",
+      "Les 1: Wat is fitness?"
+    ]
+  },
+  {
+    "objectID": "Ski.html#tips-om-efficiënt-te-skiën",
+    "href": "Ski.html#tips-om-efficiënt-te-skiën",
+    "title": "Les 2: Ski",
+    "section": "Tips om efficiënt te skiën",
+    "text": "Tips om efficiënt te skiën\nSmooth and Controlled: Aim for a smooth and controlled motion throughout the stroke. Avoid jerky movements.\nEngage Core Muscles: Keep your core muscles engaged to stabilize your body and transfer power effectively.\nUse Your Whole Body: The SkiErg is a full-body workout. Ensure you’re engaging both your upper and lower body in the movement.\nBreathing: Establish a rhythmic breathing pattern. Inhale during the recovery phase and exhale during the pull phase.\nMaintain Consistency: Strive for a consistent and even pace. This will help you sustain your energy throughout the workout.\nAdjust Resistance: Depending on your fitness level, you can adjust the resistance on the SkiErg to increase or decrease the intensity of your workout.",
+    "crumbs": [
+      "Conditioning",
+      "Les 2: Ski"
     ]
   }
 ]
