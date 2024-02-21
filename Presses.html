@@ -22,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -74,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar floating slimcontent">
+<body class="nav-sidebar floating">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -247,22 +281,20 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#powerlift-bench-press" id="toc-powerlift-bench-press" class="nav-link" data-scroll-target="#powerlift-bench-press">Powerlift bench press</a></li>
   <li><a href="#shoulder-press" id="toc-shoulder-press" class="nav-link" data-scroll-target="#shoulder-press">Shoulder press</a></li>
   <li><a href="#push-press" id="toc-push-press" class="nav-link" data-scroll-target="#push-press">Push press</a></li>
-  <li><a href="#push-jerk" id="toc-push-jerk" class="nav-link" data-scroll-target="#push-jerk">Push jerk</a>
-  <ul class="collapse">
+  <li><a href="#push-jerk" id="toc-push-jerk" class="nav-link" data-scroll-target="#push-jerk">Push jerk</a></li>
   <li><a href="#split-jerk" id="toc-split-jerk" class="nav-link" data-scroll-target="#split-jerk">Split jerk</a></li>
-  </ul></li>
   </ul></li>
   <li><a href="#wat-is-jerk" id="toc-wat-is-jerk" class="nav-link" data-scroll-target="#wat-is-jerk">Wat is “Jerk”</a></li>
   <li><a href="#verhoudingen" id="toc-verhoudingen" class="nav-link" data-scroll-target="#verhoudingen">Verhoudingen</a></li>
   <li><a href="#single-arm-presses" id="toc-single-arm-presses" class="nav-link" data-scroll-target="#single-arm-presses">Single arm presses</a></li>
   <li><a href="#odd-object-presses" id="toc-odd-object-presses" class="nav-link" data-scroll-target="#odd-object-presses">Odd object presses</a></li>
   <li><a href="#belang-van-een-pull" id="toc-belang-van-een-pull" class="nav-link" data-scroll-target="#belang-van-een-pull">Belang van een pull</a></li>
-  <li><a href="#meer-weten" id="toc-meer-weten" class="nav-link" data-scroll-target="#meer-weten">Meer weten?</a></li>
+  <li><a href="#voor-als-je-er-alles-van-wilt-weten" id="toc-voor-als-je-er-alles-van-wilt-weten" class="nav-link" data-scroll-target="#voor-als-je-er-alles-van-wilt-weten">Voor als je er <em>alles</em> van wilt weten:</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Presses.html">Strength</a></li><li class="breadcrumb-item"><a href="./Presses.html">Les 1: Presses</a></li></ol></nav>
 <div class="quarto-title">
@@ -320,7 +352,7 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="variaties" class="level1 page-columns page-full">
+<section id="variaties" class="level1">
 <h1>Variaties</h1>
 <section id="bench-press" class="level3">
 <h3 class="anchored" data-anchor-id="bench-press">Bench press</h3>
@@ -334,16 +366,17 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="shoulder-press" class="level3">
 <h3 class="anchored" data-anchor-id="shoulder-press">Shoulder press</h3>
+<p><img src="http://www.crossfitblindosbarra.com/wp-content/uploads/2019/07/mercoled%C3%AC-1.gif" class="img-fluid"></p>
 </section>
 <section id="push-press" class="level3">
 <h3 class="anchored" data-anchor-id="push-press">Push press</h3>
+<p><img src="https://i.makeagif.com/media/5-26-2018/jH0WWQ.gif" class="img-fluid"></p>
 </section>
-<section id="push-jerk" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="push-jerk">Push jerk</h2>
-
-<div class="no-row-height column-margin column-container"><div class="">
-<p><img src="http://www.crossfitblindosbarra.com/wp-content/uploads/2019/07/mercoled%C3%AC-1.gif" class="img-fluid"></p>
-</div></div><p><img src="https://i.makeagif.com/media/5-26-2018/jH0WWQ.gif" class="img-fluid"> <img src="https://i.makeagif.com/media/8-27-2022/o32RrE.gif" class="img-fluid"></p>
+<section id="push-jerk" class="level3">
+<h3 class="anchored" data-anchor-id="push-jerk">Push jerk</h3>
+<p><img src="https://whiteboard-daily.myshopify.com/cdn/shop/products/PUSHJERKSEQUENCEDOWNLOAD_1024x1024@2x.jpg?v=1597772392" class="img-fluid"></p>
+<p><img src="https://i.makeagif.com/media/8-27-2022/o32RrE.gif" class="img-fluid"></p>
+</section>
 <section id="split-jerk" class="level3">
 <h3 class="anchored" data-anchor-id="split-jerk">Split jerk</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ql9U4aHymhI?si=qYlmh5BROWPQZGdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
@@ -358,20 +391,60 @@ ul.task-list li input[type="checkbox"] {
 <!--# champSki.png -->
 </section>
 </section>
-</section>
 <section id="wat-is-jerk" class="level1">
 <h1>Wat is “Jerk”</h1>
+<div style="background-color: Gainsboro; border-radius: 10px; padding: 10px;">
+<details>
+<summary>
+Jerk is de verandering van versnelling
+</summary>
 <p>Als een voorwerp beweegt kun je twee eigenschappen meten:<br>
 De <em>Verplaatsing</em> van het voorwerp: de afstand die het aflegt, en:<br>
 De <em>Tijd</em> waarin het beweegt.</p>
-<p>Stel dat een auto 100 meter aflegt in 20 seconden.</p>
-<p>Als je de tijd en de afstand weet, kan je ook de snelheid bepalen: dat is de verplaatsing gedeelte door de tijd<br>
-100 meter / 20 seconden = 5 meter per seconde.</p>
-<p>Als je nou op elke seconde de verplaatsing en de snelheid meet, kan je de versnelling uitrekenen. Stel je voor dat je dit meet: Na 1 seconde: 1 meter per seconde Na 2 seconden: 2 meter per seconde na 3 seconden: 3 meter per seconde na 4 seconden: 4 meter per seconde</p>
-<p>Dan is het duidelijk dat de auto elke seconde met 1 meter per seconde versnelt.<br>
-Als de auto eenmaal een maximale snelheid heeft bereikt, en bijvoorbeeld constant 10 meter per seconde blijft rijden, is de versnelling van de auto 0.<br>
-En als de auto gaat afremmen, kan de versnelling bijvoorbeeld -1 meter per seconde zijn.</p>
-<p>De verandering van de versnelling is wat ze jerk noemen. “Jerk” is de verandering van de versnelling. Als de auto uit het voorbeeld stilstaat is de jerk 0. Als die opeens gaat rijden is de jerk eventjes 1.</p>
+<p>Snelheid is de mate waarin de positie veranderd.<br>
+Versnelling is de mate waarin de snelheid veranderd.<br>
+Jerk is de mate waarin de versnelling veranderd.<br>
+</p>
+<p>Stel dat een auto 100 meter aflegt in 20 seconden.<br>
+Als je de tijd en de afstand weet, kan je ook de snelheid bepalen: dat is de verplaatsing gedeelte door de tijd<br>
+</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># 100 meter / 20 seconden = 5 meter per seconde.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Als je op elke seconde de verplaatsing en de snelheid meet, kan je de versnelling uitrekenen.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Tijd        Snelheid    Versnelling   Jerk</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:00:       0 m/s       0             0</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:01:       1 m/s       +1 m/s        +1 m/s</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:02:       2 m/s       +1 m/s        0</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:03:       3 m/s       +1 m/s        0</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:04:       4 m/s       +1 m/s        0</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:05:       4 m/s       0             -1 m/s</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:06:       4 m/s       0             0</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co"># 0:06        3 m/s       -1 m/s        -1 m/s</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>De auto staat eerst stil. (0:00).<br>
+Daarna versnelt de auto 4 seconden lang met 1 m/s.<br>
+vervolgens rijdt de auto een seconde (0:05) met 4 m/s, zonder te versnellen.<br>
+Daarna remt de auto (-1 m/s).<br>
+</p>
+<p>De verandering in de versnelling is wat ze jerk noemen.<br>
+Als een auto vanuit stilstand opeens gaat rijden, versnelt de auto opeens, en is de jerk dus positief.<br>
+Als de auto blijft versnellen (0:01 tot 0:01), en de versnelling +1m/s blijft, veranderd de versnelling niet en is de derk dus 0.<br>
+Zodra de auto gaat remmen, veranderd de versnelling, en is de jerk negatief.</p>
+<p>Elk moment dat de versnelling veranderd, is er dus sprake van “jerk”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://i.imgur.com/BQPhS8n_d.webp?maxwidth=760&amp;fidelity=grand" class="img-fluid figure-img"></p>
+<figcaption>voorbeeld jerk</figcaption>
+</figure>
+</div>
+</details>
+</div>
+<p><br>
+</p>
+<p>Bij de strict press gaat de stang heel gelijkmatig omhoog.<br>
+Bij de push press gaat de stang eerst om laag, en dan omhoog. Door de verandering van de richting is de versnelling, en ook de “jerk” veel groter. Vandaar dat “jerk” in de naam zit.</p>
 </section>
 <section id="verhoudingen" class="level1">
 <h1>Verhoudingen</h1>
@@ -385,19 +458,14 @@ En als de auto gaat afremmen, kan de versnelling bijvoorbeeld -1 meter per secon
 <section id="belang-van-een-pull" class="level1">
 <h1>Belang van een pull</h1>
 </section>
-<section id="meer-weten" class="level1">
-<h1>Meer weten?</h1>
+<section id="voor-als-je-er-alles-van-wilt-weten" class="level1">
+<h1>Voor als je er <em>alles</em> van wilt weten:</h1>
 <div class="planning" style="background-color: Gainsboro; border-radius: 8px; padding: 10px;">
-<p>Uitleg video’s</p>
-<ul>
-<li><a href="https://www.concept2.com/indoor-rowers/training/tips-and-general-info/damper-setting-101">Damper settings 101 - Concept 2</a></li>
-<li><a href="https://www.concept2.com/indoor-rowers/training/technique-videos/common-errors">Veelgemaakte fouten - Concept 2</a></li>
-</ul>
-<p>Voor als ls je er <em>alles</em> van wilt weten:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Jerk_(physics)">Wat is jerk?</a></li>
 <li><a href="https://core.ac.uk/reader/222839636?utm_source=linkout">Squat biomechanics</a></li>
 <li><a href="https://robertsontrainingsystems.com/blog/biomechanics-and-the-bench-press/">Bench press overview</a></li>
+<li><a href="https://journals.sagepub.com/doi/full/10.1177/17479541211020452">Is there a realtionship between the overhead press and split jerk…?</a></li>
 </ul>
 </div>
 <p><br>
